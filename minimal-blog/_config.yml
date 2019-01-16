@@ -17,7 +17,7 @@ title: Minimal
 email: blog@minimal.com
 description: "Esse é um blog minimalista criado para aprender como funciona essa ferramenta linda que é o Jekyll"
 baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://micheljesus.github.io/aprendizado-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: minimal_twitter
 github_username:  minimal_github
 
