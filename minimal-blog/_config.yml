@@ -24,7 +24,6 @@ github_username:  minimal_github
 # Build settings
 markdown: kramdown
 
-# permalink: /:categories/:year/:month/:day/:title
 permalink: /:title
 
 # Exclude from processing.
